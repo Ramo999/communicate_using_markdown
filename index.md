@@ -4,5 +4,11 @@
 
 ![Image of Ramo](https://softlist.biz/upload/medialibrary/fe4/fl12_1.jpg)
 
+```
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+- [x] Make the music
+- [x] Mixing it
+- [ ] Mastering it
